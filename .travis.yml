@@ -7,7 +7,3 @@ python:
 # Install additional libraries
 install:
  - pip install -r ci/requirements.txt
-
-# Run tests
-script: 
- - make test
