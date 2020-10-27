@@ -1,4 +1,4 @@
-# Define Python versions
+# Define Python version
 language: python
 
 python:
@@ -7,3 +7,5 @@ python:
 # Install additional libraries
 install:
  - pip install -r ci/requirements.txt
+
+script: pytest
