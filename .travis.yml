@@ -1,0 +1,19 @@
+# Define Python versions
+language: python
+
+python:
+	- "3.6"
+	- "3.7"
+	- "3.8"
+
+# Define Python environment with additional libraries
+matrix:
+	include:
+		- env: ENV_FILE="ci/requirements.txt"
+
+# Install additional libraries
+install:
+	- pip install -r ${ENV_FILE}
+
+# Run tests
+script: make test
