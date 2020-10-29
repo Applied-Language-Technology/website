@@ -2,3 +2,10 @@ version: 2
 
 # Default
 formats: []
+
+python:
+    version: 3
+    install:
+         - requirements: ci/requirements.txt
+         - method: pip
+           path: .
