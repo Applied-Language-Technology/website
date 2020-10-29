@@ -8,4 +8,9 @@ python:
 install:
  - pip install -r ci/requirements.txt
 
-script: pytest
+# Create documentation
+script: make pages
+
+# Finish
+after_success: ./push.sh
+
