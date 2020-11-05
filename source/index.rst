@@ -1,13 +1,14 @@
-===========================
+###########################
 Applied Language Technology 
-===========================
+###########################
 
 .. toctree::
    :maxdepth: 2
    :caption: Table of Contents
    
-   about.rst
-   getting_started.rst
-   Part 1: Minimal Introduction to Python <python_intro.rst>
-   Part 2: Working with Text in Python <working_with_text.rst>
-   Part 3: Natural Language Processing of Linguists <nlp_for_linguists.rst>
+   About this Website <about.rst>
+   Getting Started <getting_started.rst>
+   Working with GitHub <github.rst>
+   Part I: A Minimal Introduction to Python <python_intro.rst>
+   Part II: Working with Text in Python <working_with_text.rst>
+   Part III: Natural Language Processing for Linguists <nlp_for_linguists.rst>
