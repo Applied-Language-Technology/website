@@ -5,7 +5,7 @@ Getting Started
 .. note::
    The following information is mainly intended for students enrolled at the University of Helsinki. 
 
-   Other users can explore the learning materials and use them interactively on Binder.
+   Other users can explore the learning materials and use them interactively on `Binder <https://mybinder.org/>`_
 
 Introducing the learning environments
 =====================================
@@ -59,12 +59,60 @@ Accessing CSC Notebooks
       :alt: Enter your credentials and click Login.
 
 5. If prompted, click **Accept** to forward your login to CSC Notebooks.
+   
+   If the login was successful, you should see the environments available on CSC Notebooks.
+
+.. warning::
+
+   If you cannot find an environment named *Applied Language Technology* on the landing page, this means that you are not a member of the course group on CSC Notebooks.
+
+   To join the group, complete the following steps.
+
+   1. Click the *Account* button on the top of the page.
+
+   2. Click the *Join Group* button and enter the code you have received from the course organiser.
+
+   You only need to complete these steps once. 
+
+   The next time you log in you should see the course environment among the available environments.
+
 
 .. _CSCNotebooksServer:
 
 Launching a server on CSC Notebooks
 ===================================
 
+1. Click the *Launch new* button once to launch your personal server on CSC Notebooks.
+
+   .. image:: ../img/csc_nb_launch_env.gif
+      :width: 400
+      :alt: Click the "Launch new" button.
+
+2. When the server has been launched successfully, you will see a link in the *Access* column. 
+
+   Click the *Open in browser* link.
+
+   .. image:: ../img/csc_nb_open_env.gif
+      :width: 400
+      :alt: Click the "Open in browser" link.
+
+3. This opens a window with a password, which is automatically copied on your clipboard.
+   
+   Click the *Click to copy password & proceed* button.
+
+   .. image:: ../img/csc_nb_copy_pw.gif
+      :width: 400
+      :alt: Click the "Click to copy password & proceed" button.
+
+4. This opens a new window with a password prompt.
+ 
+   Paste the password on the clipboard into the box and click the *Log in* button. 
+
+   .. image:: ../img/csc_nb_enter_pw.gif
+      :width: 400
+      :alt: Paste the password on the clipboard into the box.
+
+   
 
 Launching Jupyter
 =================
