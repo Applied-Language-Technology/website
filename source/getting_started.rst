@@ -5,7 +5,7 @@ Getting Started
 .. note::
    The following information is mainly intended for students enrolled at the University of Helsinki. 
 
-   Other users can explore the learning materials and use them interactively on `Binder <https://mybinder.org/>`_
+   Other users can explore the learning materials and use them interactively on `Binder <https://mybinder.org/>`_.
 
 Introducing the learning environments
 =====================================
@@ -64,7 +64,7 @@ Accessing CSC Notebooks
 
 .. warning::
 
-   If you cannot find an environment named *Applied Language Technology* on the landing page, this means that you are not a member of the course group on CSC Notebooks.
+   If you cannot find an environment named *Applied Language Technology* on the landing page, you have not joined the course group on CSC Notebooks.
 
    To join the group, complete the following steps.
 
