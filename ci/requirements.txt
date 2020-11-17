@@ -14,10 +14,12 @@ cffi==1.14.3
 chardet==3.0.4
 click==7.1.2
 colorama==0.4.4
+commonmark==0.9.1
 cymem==2.0.3
 decorator==4.4.2
 defusedxml==0.6.0
 docutils==0.16
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.1/en_core_web_sm-2.3.1.tar.gz
 entrypoints==0.3
 future==0.18.2
 gitdb==4.0.5
@@ -31,6 +33,7 @@ ipython-genutils==0.2.0
 ipywidgets==7.5.1
 jedi==0.17.2
 Jinja2==2.11.2
+joblib==0.17.0
 jsonschema==3.2.0
 jupyter==1.0.0
 jupyter-book==0.8.3
@@ -42,6 +45,7 @@ jupyter-sphinx==0.3.2
 jupyterlab-pygments==0.1.2
 jupytext==1.6.0
 latexcodec==2.0.1
+Markdown==3.3.3
 markdown-it-py==0.5.6
 MarkupSafe==1.1.1
 mistune==0.8.4
@@ -52,6 +56,7 @@ nbclient==0.5.1
 nbconvert==5.6.1
 nbdime==2.1.0
 nbformat==5.0.8
+nbsphinx==0.8.0
 nest-asyncio==1.4.2
 notebook==6.1.4
 numpy==1.19.2
@@ -81,7 +86,10 @@ PyYAML==5.3.1
 pyzmq==19.0.2
 qtconsole==4.7.7
 QtPy==1.9.0
+recommonmark==0.6.0
 requests==2.24.0
+scikit-learn==0.23.2
+scipy==1.5.4
 Send2Trash==1.5.0
 six==1.15.0
 smmap==3.0.4
@@ -92,6 +100,7 @@ Sphinx==3.2.1
 sphinx-book-theme==0.0.38
 sphinx-comments==0.0.3
 sphinx-copybutton==0.3.0
+sphinx-markdown-tables==0.0.15
 sphinx-panels==0.5.2
 sphinx-thebe==0.0.8
 sphinx-togglebutton==0.2.3
@@ -108,6 +117,7 @@ stanza==1.1.1
 terminado==0.9.1
 testpath==0.4.4
 thinc==7.4.1
+threadpoolctl==2.1.0
 toml==0.10.1
 torch==1.6.0
 tornado==6.0.4
