@@ -20,6 +20,7 @@ cymem==2.0.3
 decorator==4.4.2
 defusedxml==0.6.0
 docutils==0.16
+en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-2.3.1/en_core_web_md-2.3.1.tar.gz
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.1/en_core_web_sm-2.3.1.tar.gz
 entrypoints==0.3
 future==0.18.2
