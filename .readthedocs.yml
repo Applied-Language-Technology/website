@@ -1,11 +1,9 @@
 version: 2
 
-# Default
-formats: []
+sphinx:
+  configuration: source/conf.py
 
 python:
-    version: 3
-    install:
-         - requirements: ci/requirements.txt
-         - method: pip
-           path: .
+  version: 3.8
+  install:
+    - requirements: ci/requirements.txt
