@@ -14,6 +14,11 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
+# Workaround for sphinxcontrib.googleanalytics
+import sphinx.application
+import sphinx.errors
+sphinx.application.ExtensionError = sphinx.errors.ExtensionError
+
 
 # -- Project information -----------------------------------------------------
 
