@@ -95,6 +95,7 @@ recommonmark==0.6.0
 requests==2.24.0
 scikit-learn==0.23.2
 scipy==1.5.4
+seaborn==0.11.0
 Send2Trash==1.5.0
 six==1.15.0
 smmap==3.0.4
@@ -112,7 +113,7 @@ sphinx-togglebutton==0.2.3
 sphinxcontrib-applehelp==1.0.2
 sphinxcontrib-bibtex==1.0.0
 sphinxcontrib-devhelp==1.0.2
-sphinxcontrib-googleanalytics @ git+https://github.com/elgravel/googleanalytics.git@b0ee38b542ed5cd748fc640d27ab60383ac3e02c
+sphinxcontrib-googleanalytics @ git+https://github.com/elgravel/googleanalytics.git@f5d0f2b3bc5c0d87c10363160fafd68deaa034f9
 sphinxcontrib-htmlhelp==1.0.3
 sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.3
