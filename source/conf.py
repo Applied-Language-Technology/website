@@ -14,6 +14,11 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
+# Workaround for sphinxcontrib.googleanalytics
+import sphinx.application
+import sphinx.errors
+sphinx.application.ExtensionError = sphinx.errors.ExtensionError
+
 
 # -- Project information -----------------------------------------------------
 
@@ -26,7 +31,11 @@ author = 'Tuomo Hiippala'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['nbsphinx']
+extensions = ['nbsphinx', 'sphinxcontrib.googleanalytics']
+
+# Configure Google Analytics
+googleanalytics_id = "G-QDXYHY09XJ"
+googleanalytics_enabled = True
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
