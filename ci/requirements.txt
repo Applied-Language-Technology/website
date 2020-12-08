@@ -1,6 +1,8 @@
+absl-py==0.11.0
 alabaster==0.7.12
 appnope==0.1.2
 argon2-cffi==20.1.0
+astunparse==1.6.3
 async-generator==1.10
 attrs==20.3.0
 Babel==2.9.0
@@ -8,6 +10,7 @@ backcall==0.2.0
 beautifulsoup4==4.9.3
 bleach==3.2.1
 blis==0.7.4
+cachetools==4.1.1
 catalogue==2.0.1
 certifi==2020.12.5
 cffi==1.14.4
@@ -27,8 +30,14 @@ entrypoints==0.3
 filelock==3.0.12
 ftfy==5.8
 future==0.18.2
+gast==0.3.3
 gitdb==4.0.5
 GitPython==3.1.11
+google-auth==1.23.0
+google-auth-oauthlib==0.4.2
+google-pasta==0.2.0
+grpcio==1.34.0
+h5py==2.10.0
 idna==2.10
 imagesize==1.2.0
 importlib-metadata==3.1.1
@@ -48,8 +57,10 @@ jupyter-console==6.2.0
 jupyter-core==4.7.0
 jupyter-sphinx==0.3.2
 jupyterlab-pygments==0.1.2
+Keras-Preprocessing==1.1.2
 kiwisolver==1.3.1
 latexcodec==2.0.1
+Markdown==3.3.3
 markdown-it-py==0.5.6
 MarkupSafe==1.1.1
 matplotlib==3.3.3
@@ -64,7 +75,9 @@ nbformat==5.0.8
 nbsphinx==0.8.0
 nest-asyncio==1.4.3
 notebook==6.1.5
-numpy==1.19.4
+numpy==1.18.5
+oauthlib==3.1.0
+opt-einsum==3.3.0
 oset==0.1.3
 packaging==20.7
 pandas==1.1.4
@@ -79,6 +92,8 @@ prometheus-client==0.9.0
 prompt-toolkit==3.0.8
 protobuf==3.14.0
 ptyprocess==0.6.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
 pybtex==0.23.0
 pybtex-docutils==0.2.2
 pycparser==2.20
@@ -96,6 +111,8 @@ qtconsole==5.0.1
 QtPy==1.9.0
 regex==2020.11.13
 requests==2.25.0
+requests-oauthlib==1.3.0
+rsa==4.6
 sacremoses==0.0.43
 scikit-learn==0.23.2
 scipy==1.5.4
@@ -127,6 +144,11 @@ sphinxcontrib-serializinghtml==1.1.4
 SQLAlchemy==1.3.20
 srsly==2.3.2
 stanza==1.1.1
+tensorboard==2.4.0
+tensorboard-plugin-wit==1.7.0
+tensorflow==2.3.1
+tensorflow-estimator==2.3.0
+termcolor==1.1.0
 terminado==0.9.1
 testpath==0.4.4
 thinc==8.0.0rc2
@@ -144,5 +166,7 @@ urllib3==1.26.2
 wasabi==0.8.0
 wcwidth==0.2.5
 webencodings==0.5.1
+Werkzeug==1.0.1
 widgetsnbextension==3.5.1
+wrapt==1.12.1
 zipp==3.4.0
