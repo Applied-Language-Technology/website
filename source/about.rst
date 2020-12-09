@@ -9,11 +9,13 @@ Together, these two courses provide an introduction to *applied language technol
 About the courses and their goals
 =================================
 
-The field of language technology (or interchangeably, natural language processing) studies how computers can process and represent natural language, that is, natural languages spoken and written in the world. Language technology is now used in many real-world applications, which range from traditional tasks such as filtering e-mails for spam to complex communicative situations, such as providing customer service using chatbots.
+The field of language technology (or often interchangeably, natural language processing) studies how computers can process and represent natural language, that is, natural languages spoken, written or signed in the world. Language technology is now used in many real-world applications, which range from traditional tasks such as filtering e-mails for spam to complex communicative situations, such as providing customer service using chatbots.
 
-As a part of this development, language technology has gradually become more accessible in recent years. Popular programming languages such as Python offer easy access to libraries that allow users to apply the latest language technology. However, newcomers may find programming languages such as Python intimidating. 
+As a part of this development, language technology has become increasingly accessible in recent years. Popular programming languages such as Python offer easy access to libraries that allow users to apply the latest language technology. However, newcomers may find programming languages such as Python intimidating. 
 
 For this reason, these courses are intended to serve as a gentle introduction to applying language technology using the Python programming language. The courses are designed particularly with students of languages and linguistics in mind, in order to empower them by making language technology accessible and understandable.
+
+Instead of treating *text as data* and as a source of information, these courses consider text as the result of linguistic processes, which are inextricably related to language use in society. If you are already familiar with language technology, these courses may offer you new insights on language.
 
 Information for students at the University of Helsinki
 ======================================================
