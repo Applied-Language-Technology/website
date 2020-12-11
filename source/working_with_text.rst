@@ -2,15 +2,15 @@
 Part II: Working with Text in Python
 ************************************
 
-Part II provides an introduction to working with text in the Python programming language.
+Part II introduces you doing things with text using the Python programming language.
 
-After reading through this section, you should: 
+After reading through this section, you should be able to:
 
 - understand how computers process and store text
-- how to load text into Python for processing and manipulation
-- know basic tasks in natural language processing and how to perform them
-- how to evaluate the performance of natural language processing 
-- how to store and manage texts and prepare them for further analysis
+- how to load text into Python for processing and save the results
+- know basic tasks in natural language processing and the kinds of annotations they produce
+- how to evaluate the performance of natural language processing algorithms
+- how to store texts and prepare them for further analysis
 
 **Table of Contents**
 
