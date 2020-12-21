@@ -10,7 +10,7 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-# import os
+import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
@@ -18,7 +18,6 @@
 import sphinx.application
 import sphinx.errors
 sphinx.application.ExtensionError = sphinx.errors.ExtensionError
-
 
 # -- Project information -----------------------------------------------------
 
@@ -58,3 +57,8 @@ html_static_path = ['_static']
 
 # Set nbsphinx options
 nbsphinx_allow_errors = True
+
+# 
+if os.environ.get('READTHEDOCS'):
+
+	INSTALL_REQUIRES = ['whatlies']
