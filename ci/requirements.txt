@@ -184,7 +184,6 @@ wasabi==0.8.0
 wcwidth==0.2.5
 webencodings==0.5.1
 Werkzeug==1.0.1
-whatlies==0.5.7
 widgetsnbextension==3.5.1
 wrapt==1.12.1
 zipp==3.4.0
