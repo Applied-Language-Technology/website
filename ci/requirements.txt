@@ -142,6 +142,5 @@ urllib3==1.26.2
 wasabi==0.8.0
 wcwidth==0.2.5
 webencodings==0.5.1
-whatlies==0.5.8
 widgetsnbextension==3.5.1
 zipp==3.4.0
