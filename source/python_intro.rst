@@ -11,5 +11,5 @@ Because these learning materials teach how to *apply* language technology, the f
 .. toctree::
    :maxdepth: 3
 
-   part_i/working_with_jupyter_notebooks.ipynb
-   part_i/getting_started_with_python.ipynb
+   notebooks/part_i/01_working_with_jupyter_notebooks.ipynb
+   notebooks/part_i/02_getting_started_with_python.ipynb

@@ -17,9 +17,9 @@ After reading through this section, you should be able to:
 .. toctree::
    :maxdepth: 3
 
-   part_ii/basic_text_processing.ipynb
-   part_ii/basic_text_processing_continued.ipynb
-   part_ii/basic_nlp.ipynb
-   part_ii/basic_nlp_continued.ipynb
-   part_ii/evaluating_nlp.ipynb
-   part_ii/managing_data.ipynb
+   notebooks/part_ii/01_basic_text_processing.ipynb
+   notebooks/part_ii/02_basic_text_processing_continued.ipynb
+   notebooks/part_ii/03_basic_nlp.ipynb
+   notebooks/part_ii/04_basic_nlp_continued.ipynb
+   notebooks/part_ii/05_evaluating_nlp.ipynb
+   notebooks/part_ii/06_managing_data.ipynb

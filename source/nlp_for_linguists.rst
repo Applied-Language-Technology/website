@@ -5,11 +5,11 @@ Part III: Natural Language Processing for Linguists
 .. toctree::
    :maxdepth: 3
 
-   part_iii/multilingual_nlp.ipynb
-   part_iii/pattern_matching.ipynb
-   part_iii/embeddings.ipynb
-   part_iii/embeddings_continued.ipynb
-   part_iii/discourse_analysis.ipynb
-   part_iii/exporting.ipynb
-   part_iii/ethics.rst
+   notebooks/part_iii/01_multilingual_nlp.ipynb
+   notebooks/part_iii/02_pattern_matching.ipynb
+   notebooks/part_iii/03_embeddings.ipynb
+   notebooks/part_iii/04_embeddings_continued.ipynb
+   notebooks/part_iii/05_discourse_analysis.ipynb
+   notebooks/part_iii/06_exporting.ipynb
+   ethics.rst
 
