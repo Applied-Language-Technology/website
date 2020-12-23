@@ -10,5 +10,5 @@ python:
 
 submodules:
   include:
-    - notebooks
+    - source/notebooks
   recursive: true
