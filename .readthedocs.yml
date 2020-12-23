@@ -9,6 +9,5 @@ python:
     - requirements: ci/requirements.txt
 
 submodules:
-  include:
-    - source/notebooks
+  include: all
   recursive: true
