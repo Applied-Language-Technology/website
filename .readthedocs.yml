@@ -7,3 +7,8 @@ python:
   version: 3.8
   install:
     - requirements: ci/requirements.txt
+
+submodules:
+  include:
+    - notebooks
+  recursive: true
