@@ -4,10 +4,7 @@ Applied Language Technology
 
 .. warning::
 
-   The materials currently available on the website are still under development and include many placeholders. 
-
-   The materials will be completed by the end of spring 2021.
-
+   The materials on the website are still under development and therefore include many placeholders. All materials will be available by the end of spring 2021.
 
 .. toctree::
    :maxdepth: 2
