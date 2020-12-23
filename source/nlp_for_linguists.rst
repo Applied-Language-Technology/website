@@ -9,7 +9,7 @@ Part III: Natural Language Processing for Linguists
    notebooks/part_iii/02_pattern_matching.ipynb
    notebooks/part_iii/03_embeddings.ipynb
    notebooks/part_iii/04_embeddings_continued.ipynb
-   notebooks/part_iii/05_discourse_analysis.ipynb
+   notebooks/part_iii/05_text_linguistics.ipynb
    notebooks/part_iii/06_exporting.ipynb
    ethics.rst
 
