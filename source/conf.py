@@ -23,7 +23,7 @@ sphinx.application.ExtensionError = sphinx.errors.ExtensionError
 
 project = 'Applied Language Technology'
 copyright = '2020- Tuomo Hiippala, CC BY-NC 4.0'
-author = 'Tuomo Hiippala'
+# author = 'Tuomo Hiippala'
 
 # -- General configuration ---------------------------------------------------
 
