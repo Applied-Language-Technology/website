@@ -57,6 +57,7 @@ html_static_path = ['_static']
 
 # Set nbsphinx options
 nbsphinx_allow_errors = True
+nbsphinx_execute = "always"
 
 # 
 if os.environ.get('READTHEDOCS'):
