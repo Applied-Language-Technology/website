@@ -1,6 +1,3 @@
-# path to the directory containing setup.py relative to the project root
--e .
-
 absl-py==0.11.0
 alabaster==0.7.12
 altair==4.1.0
