@@ -7,9 +7,8 @@ python:
   version: 3.8
   install:
     - requirements: ci/requirements.txt
-    - method: pip
-    - path: .
     - method: setuptools
+      path: .
 
 submodules:
   include: all
