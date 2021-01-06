@@ -5,7 +5,6 @@ sphinx:
 
 python:
   version: 3.8
-  pip_install: false
   install:
     - requirements: ci/requirements.txt
     - method: setuptools
