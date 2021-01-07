@@ -2,6 +2,8 @@
 Part III: Natural Language Processing for Linguists
 ***************************************************
 
+**Table of Contents**
+
 .. toctree::
    :maxdepth: 3
 
