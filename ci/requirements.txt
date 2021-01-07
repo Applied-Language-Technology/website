@@ -83,4 +83,4 @@ umap-learn==0.4.6
 urllib3==1.26.2
 wasabi==0.8.0
 wcwidth==0.2.5
-whatlies==0.5.10
+whatlies @ git+https://github.com/thiippal/whatlies.git@4402e69299bd5074f870549e62e818c2cf80d76e
