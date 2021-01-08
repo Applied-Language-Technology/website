@@ -7,7 +7,7 @@ python:
   version: 3.8
   install:
     - requirements: ci/requirements.txt
-  system_packages: true
+  system_packages: false
 
 submodules:
   include: all
