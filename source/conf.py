@@ -30,7 +30,7 @@ copyright = '2020- Tuomo Hiippala, CC BY-NC 4.0'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['nbsphinx', 'sphinxcontrib.googleanalytics']
+extensions = ['nbsphinx', 'sphinxcontrib.googleanalytics', 'jupyter_sphinx']
 
 # Configure Google Analytics
 googleanalytics_id = "G-QDXYHY09XJ"
@@ -48,7 +48,16 @@ exclude_patterns = []
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'sphinx_book_theme'
+html_theme = "sphinx_book_theme"
+html_title = "Applied Language Technology"
+html_theme_options = {
+	"repository_url": "https://github.com/Applied-Language-Technology/website",
+	"repository_branch": "master",
+	"path_to_docs": "source/",
+	"launch_buttons": {"binderhub_url": "https://mybinder.org",
+					    "notebook_interface": "jupyterlab",
+					    "collapse_navigation": False}
+	}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -58,8 +67,3 @@ html_static_path = ['_static']
 # Set nbsphinx options
 nbsphinx_allow_errors = True
 nbsphinx_execute = "auto"
-
-# 
-# if os.environ.get('READTHEDOCS'):
-
-#	INSTALL_REQUIRES = ['whatlies']
