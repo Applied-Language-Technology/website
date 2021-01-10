@@ -70,7 +70,7 @@ sphinxcontrib-htmlhelp==1.0.3
 sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.4
-stanza==1.2.0
+stanza==1.1.1
 srsly==2.3.2
 thinc==8.0.0rc2
 threadpoolctl==2.1.0
