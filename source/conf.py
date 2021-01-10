@@ -56,7 +56,7 @@ html_theme_options = {
 	"repository_branch": "master",
 	"path_to_docs": "source/",
 	"launch_buttons": {"binderhub_url": "https://mybinder.org",
-					    "thebe", False,
+					    "thebe": False,
 					    "notebook_interface": "jupyterlab",
 					    "collapse_navigation": False}
 	}
