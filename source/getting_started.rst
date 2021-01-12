@@ -14,7 +14,7 @@ The courses use several learning environments, which are directly accessible thr
 
 1. **GitHub** and **GitHub Classroom**. The course materials and exercises are hosted on GitHub, a service for storing code, documentation and other materials. GitHub Classroom is used to manage the exercises.
 
-2. **CSC Notebooks** is a service provided by CSC, a Finnish non-profit state enterprise that serves Finnish institutions of higher education. CSC Notebooks host the interactive learning materials, which are based on **Jupyter**. We use the Python programming language on Jupyter.
+2. **CSC Notebooks** is a service provided by CSC, a Finnish non-profit state enterprise that serves Finnish institutions of higher education. CSC Notebooks host the interactive learning materials, which use **Jupyter**. We use the Python programming language on Jupyter.
 
 The following diagram provides an overview of the environments and services used.
 
@@ -29,7 +29,7 @@ How to use the learning environments in practice?
    :numbered:
 
    Log in to CSC Notebooks <notebook_login.rst>
-   Launch your personal server <launch_server.rst>
+   Launch JupyterLab on your personal server <launch_server.rst>
+   Interact with the server in JupyterLab <jupyter.rst>
    Retrieve learning materials and exercises from GitHub <github_pull.rst>
-   Interact with the learning materials on Jupyter Notebooks <jupyter.rst>
    Return completed exercises to GitHub for grading <github_push.rst>

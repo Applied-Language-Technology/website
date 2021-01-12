@@ -3,29 +3,45 @@
 Log in to CSC Notebooks
 =======================
 
-1. Open `CSC Notebooks <https://notebooks.csc.fi/>`_ on your web browser.
+1. Open a web browser on your computer and navigate to `CSC Notebooks <https://notebooks.csc.fi/>`_.
+   
+   |
 
 2. Choose **Haka** as your login method.
-   
+
+   |
+
    .. image:: ../img/csc_nb_login_method.gif
       :width: 500
       :alt: Click the "Haka Login" button.
 
+   |
+
 3. Choose your university from the drop-down menu and click **Select**.
+
+   |
 
    .. image:: ../img/csc_nb_haka_affiliation.gif
       :width: 400
       :alt: Choose your university from the drop-down menu and click select.
 
+   |
+
 4. Enter your *university username and password* and click **Login**.
+
+   |
 
    .. image:: ../img/csc_nb_haka_login.gif
       :width: 300
       :alt: Enter your credentials and click Login.
 
-5. If prompted, click **Accept** to forward your login to CSC Notebooks.
-   
-   If the login was successful, you should see the environments available on CSC Notebooks.
+   |
+
+5. If prompted, click **Accept** to forward your login to CSC Notebooks. If the login was successful, you should see the environments available on CSC Notebooks. 
+
+   |
+
+6. Proceed to `launch the course environment <launch_server.rst>`_.
 
 .. warning::
 

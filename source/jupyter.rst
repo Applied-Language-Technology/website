@@ -1,2 +1,2 @@
-Launch a Jupyter Notebook
-=========================
+Interact with the Server in JupyterLab
+======================================
