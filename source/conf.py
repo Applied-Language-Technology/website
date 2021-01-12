@@ -55,7 +55,7 @@ html_theme_options = {
 	"use_repository_button": False,
 	"repository_url": "https://github.com/Applied-Language-Technology/website/",
 	"repository_branch": "master",
-	"path_to_docs": "source/",
+	# "path_to_docs": "source/",
 	"launch_buttons": {"binderhub_url": "https://mybinder.org",
 					    "thebe": False,
 					    "notebook_interface": "jupyterlab",
