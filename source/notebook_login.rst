@@ -37,22 +37,36 @@ Log in to CSC Notebooks
 
    |
 
-5. If prompted, click **Accept** to forward your login to CSC Notebooks. If the login was successful, you should see the environments available on CSC Notebooks. 
+5. If prompted, click **Accept** to forward your login to CSC Notebooks. 
+
+   |
+
+
+   If the login was successful, you should see the environments available on CSC Notebooks, including an environment named Applied Language Technology.
+
+   .. warning::
+
+      If you cannot find an environment named *Applied Language Technology* on the landing page, you have not joined the course group on CSC Notebooks.
+
+      |
+
+
+      To join the group, complete the following steps.
+
+      1. Click the *Account* button on the top of the page.
+
+      2. Click the *Join Group* button and enter the code you have received from the course organiser.
+
+      You only need to complete these steps once. 
+
+      The next time you log in you should see the course environment among the available environments.
+
+   |
+
+   .. image:: ../img/csc_nb_env_box.png
+      :width: 400
+      :alt: Environment for courses in Applied Language Technology.
 
    |
 
 6. Proceed to `launch the course environment <launch_server.rst>`_.
-
-.. warning::
-
-   If you cannot find an environment named *Applied Language Technology* on the landing page, you have not joined the course group on CSC Notebooks.
-
-   To join the group, complete the following steps.
-
-   1. Click the *Account* button on the top of the page.
-
-   2. Click the *Join Group* button and enter the code you have received from the course organiser.
-
-   You only need to complete these steps once. 
-
-   The next time you log in you should see the course environment among the available environments.

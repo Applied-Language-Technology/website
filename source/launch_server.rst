@@ -3,6 +3,8 @@
 Launching a server on CSC Notebooks
 ===================================
 
+Follow the instructions below to launch a server with the course environment on CSC Notebooks.
+
 1. Click the *Launch new* button once to launch your personal server on CSC Notebooks.
 
    |
@@ -49,4 +51,4 @@ Launching a server on CSC Notebooks
 
    |
 
-5. Upon successful login, the server opens JupyterLab, which is an environment that allows you to `interact with the server <jupyter.rst>`_.
+5. Upon successful login, the server opens `JupyterLab <jupyter.rst>`_, a web-based interface to Jupyter, the interactive programming environment running on the server.

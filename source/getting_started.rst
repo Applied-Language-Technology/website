@@ -25,8 +25,9 @@ The following diagram provides an overview of the environments and services used
 How to use the learning environments in practice?
 =================================================
 
+To access and use the learning environments, follow the steps below.
+
 .. toctree::
-   :numbered:
 
    Log in to CSC Notebooks <notebook_login.rst>
    Launch JupyterLab on your personal server <launch_server.rst>
