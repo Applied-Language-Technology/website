@@ -15,7 +15,7 @@ To retrieve learning materials and exercises from GitHub, navigate to the main v
 
    |
 
-2. Terminal opens a command line interface. We will use the command line to establish a connection to GitHub.
+2. Terminal opens a command line interface. We will use the command line interface to establish a connection to GitHub.
 
    |
 
