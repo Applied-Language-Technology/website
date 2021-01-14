@@ -13,4 +13,4 @@ The main view of JupyterLab has two major elements: *File Browser* (left) and *L
 
 The following video provides a brief overview of JupyterLab and its functionalities.
 
-You can then `retrieve learning materials and exercises from GitHub <github_pull.rst>`_.
+To get started with the course, you must `retrieve learning materials and exercises from GitHub <github_pull.rst>`_.

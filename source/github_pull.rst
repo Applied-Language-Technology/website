@@ -1,7 +1,9 @@
 Retrieve learning materials from GitHub
 =======================================
 
-The learning materials and exercises are hosted on `GitHub <https://www.github.com>`_. The content on GitHub is organised into *repositories*, which can contain code and other file types, while also keeping track on any modifications made to them.
+The learning materials and exercises for this course are hosted on `GitHub <https://www.github.com>`_. 
+
+GitHub is a service that allows hosting code for programs and various other file types, which are organised into *repositories*. An underlying program, `Git <https://en.wikipedia.org/wiki/Git>`_, keeps track of any modifications to the files and retains a history of changes made to previous versions of the file. This is called *version control*: GitHub enables multiple people to collaborate on the same repository, while keeping track of the changes made.
 
 To retrieve learning materials and exercises from GitHub, navigate to the main view in JupyterLab and follow the instructions below.
 
@@ -35,9 +37,9 @@ To retrieve learning materials and exercises from GitHub, navigate to the main v
 
    |
 
-4. Change back to Terminal in JupyterLab and type the following command.
+4. Change back to Terminal in JupyterLab and type the following command:
 
-   .. code-block::
+   .. code-block:: console
 
       git clone <address of the GitHub repository>
 
@@ -55,8 +57,8 @@ To retrieve learning materials and exercises from GitHub, navigate to the main v
 
    |
 
-   Cloning the repository creates a local copy of the repository on your server. You should now see a directory named after the repository in the File Browser on the left-hand side of JupyterLab.
+   Cloning the repository creates a local copy of the repository on your server. You should now see a directory named after the repository in the File Browser on the left-hand side of the main view in JupyterLab.
 
    |
 
-   When you have completed an exercise, you can `return the exercise to GitHub for grading <github_push.rst>`_.
+   When you have completed an exercise, you must `return the exercise to GitHub for grading <github_push.rst>`_.

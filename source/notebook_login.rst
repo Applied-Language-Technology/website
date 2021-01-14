@@ -3,7 +3,11 @@
 Log in to CSC Notebooks
 =======================
 
-1. Open a web browser on your computer and navigate to `CSC Notebooks <https://notebooks.csc.fi/>`_.
+CSC Notebooks is a service provided by `CSC – IT Centre for Science <https://www.csc.fi>`_, a company jointly owned by the Finnish state and universities.
+
+The CSC Notebooks platform allows users to run their own virtual servers, also called *instances*, on CSC computers.
+
+1. To access the platform, open a web browser on your computer and navigate to `CSC Notebooks <https://notebooks.csc.fi/>`_.
    
    |
 

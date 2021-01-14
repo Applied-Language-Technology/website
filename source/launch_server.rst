@@ -41,7 +41,7 @@ Follow the instructions below to launch a server with the course environment on 
 
 4. This opens a new window with a password prompt.
  
-   Paste the password on the clipboard into the box and click the *Log in* button. 
+   Paste the password on the clipboard into the box by pressing *Control* and *v* at the same time. Then click the *Log in* button. 
 
    |
 
