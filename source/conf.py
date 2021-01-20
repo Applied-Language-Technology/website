@@ -30,7 +30,8 @@ copyright = '2020- Tuomo Hiippala, CC BY-NC 4.0'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['nbsphinx', 'sphinxcontrib.googleanalytics', 'jupyter_sphinx']
+extensions = ['nbsphinx', 'sphinxcontrib.googleanalytics', 'jupyter_sphinx',
+	      'sphinxembeddedvideos.youtube']
 
 # Configure Google Analytics
 googleanalytics_id = "G-QDXYHY09XJ"
