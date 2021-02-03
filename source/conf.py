@@ -55,14 +55,15 @@ html_logo = "../img/logo.png"
 
 html_theme_options = {
 	"use_download_button": True,
-	"use_repository_button": False,
+	"use_repository_button": True,
+	"use_edit_page_button": True,
 	"repository_url": "https://github.com/Applied-Language-Technology/website/",
 	"repository_branch": "master",
 	# "path_to_docs": "source/",
-	"launch_buttons": {"binderhub_url": "https://mybinder.org",
+	"launch_buttons": {"binderhub_url": "https://mybinder.org/v2/gh/Applied-Language-Technology/notebooks/HEAD",
 					    "thebe": False,
 					    "notebook_interface": "jupyterlab",
-					    "collapse_navigation": False},
+					    "collapse_navigation": False}
 	}
 
 # Add any paths that contain custom static files (such as style sheets) here,
