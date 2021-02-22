@@ -30,7 +30,8 @@ copyright = '2020- Tuomo Hiippala, CC BY-NC 4.0'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['nbsphinx', 'sphinxcontrib.googleanalytics', 'jupyter_sphinx']
+extensions = ['nbsphinx', 'sphinxcontrib.googleanalytics', 'jupyter_sphinx',
+	      'sphinxembeddedvideos.youtube']
 
 # Configure Google Analytics
 googleanalytics_id = "G-QDXYHY09XJ"
@@ -49,17 +50,18 @@ exclude_patterns = []
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 html_theme = "sphinx_book_theme"
-html_title = "Applied Language Technology"
+html_title = ""
+html_logo = "../img/logo.png"
+
 html_theme_options = {
 	"use_download_button": True,
-	"use_repository_button": False,
-	"repository_url": "https://github.com/Applied-Language-Technology/website/",
+	"use_repository_button": True,
+	"use_edit_page_button": False,
+	"repository_url": "https://github.com/Applied-Language-Technology/website",
 	"repository_branch": "master",
-	# "path_to_docs": "source/",
-	"launch_buttons": {"binderhub_url": "https://mybinder.org",
-					    "thebe": False,
-					    "notebook_interface": "jupyterlab",
-					    "collapse_navigation": False},
+	"path_to_docs": "source/",
+	"launch_buttons": {"binderhub_url": "https://mybinder.org/v2/gh/Applied-Language-Technology/notebooks/main",
+					    "notebook_interface": "jupyterlab"}
 	}
 
 # Add any paths that contain custom static files (such as style sheets) here,
