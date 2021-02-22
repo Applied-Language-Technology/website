@@ -1,5 +1,9 @@
 Working in JupyterLab
 =====================
+.. image:: https://img.shields.io/badge/watch-youtube-red.svg
+   :target: https://www.youtube.com/watch?v=-UwAsLtl8nQ
+
+|
 
 The main view of JupyterLab has two major elements: *File Browser* (left) and *Launcher* (right).
 
@@ -8,14 +12,6 @@ The main view of JupyterLab has two major elements: *File Browser* (left) and *L
 .. image:: ../img/csc_nb_jupyterlab.png
    :width: 600
    :alt: The initial view in JupyterLab.
-
-|
-
-The video below provides a brief overview of JupyterLab and its functionalities.
-
-|
-
-.. youtube:: -UwAsLtl8nQ
 
 |
 

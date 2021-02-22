@@ -1,5 +1,9 @@
 Retrieve learning materials from GitHub
 =======================================
+.. image:: https://img.shields.io/badge/watch-youtube-red.svg
+   :target: https://youtu.be/uukaUqOLRr4
+
+|
 
 The learning materials and exercises for this course are hosted on `GitHub <https://www.github.com>`_. 
 
