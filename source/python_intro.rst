@@ -6,6 +6,22 @@ Part I provides a minimal introduction to the Python programming language and Ju
 
 Because these learning materials teach how to *apply* language technology, the following sections cover the bare minimum – just enough to proceed to :doc:`Part II <working_with_text>`. You will learn more about Python and its capabilities going forward.  
 
+**Tutorials on YouTube**
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL6cQi6qFlek2G1okRUjmFtiP_0e6MHJFN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+|
+
+Look out for the following badge below a header for a related video on YouTube:
+
+.. image:: https://img.shields.io/badge/watch-youtube-red.svg
+   :target: https://www.youtube.com/channel/UCqI8-flen1SrldnJzkhzMHw
+
+|
+
+
 **Table of Contents**
 
 .. toctree::
