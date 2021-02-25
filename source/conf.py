@@ -30,8 +30,7 @@ copyright = '2020- Tuomo Hiippala, CC BY-NC 4.0'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['nbsphinx', 'sphinxcontrib.googleanalytics', 'jupyter_sphinx',
-	      'sphinxembeddedvideos.youtube']
+extensions = ['myst_nb', 'sphinxembeddedvideos.youtube', 'sphinxcontrib.googleanalytics']
 
 # Configure Google Analytics
 googleanalytics_id = "G-QDXYHY09XJ"
@@ -43,7 +42,7 @@ templates_path = ['_templates']
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = []
+exclude_patterns = ['*.md']
 
 # -- Options for HTML output -------------------------------------------------
 
@@ -60,7 +59,7 @@ html_theme_options = {
 	"repository_url": "https://github.com/Applied-Language-Technology/website",
 	"repository_branch": "master",
 	"path_to_docs": "source/",
-	"launch_buttons": {"binderhub_url": "https://mybinder.org/v2/gh/Applied-Language-Technology/notebooks/main",
+	"launch_buttons": {"binderhub_url": "https://mybinder.org/v2/gh/Applied-Language-Technology/notebooks/HEAD",
 					    "notebook_interface": "jupyterlab"}
 	}
 
