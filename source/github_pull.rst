@@ -1,7 +1,10 @@
+.. _github_pull:
+
 Retrieve learning materials from GitHub
 =======================================
-.. image:: https://img.shields.io/badge/watch-youtube-red.svg
-   :target: https://youtu.be/uukaUqOLRr4
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/uukaUqOLRr4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 |
 
@@ -77,4 +80,4 @@ To retrieve learning materials and exercises from GitHub, navigate to the main v
 
    |
 
-5. When you have completed an exercise, you must `return the exercise to GitHub for grading <github_push.rst>`_.
+5. When you have completed the exercise, you must :ref:`return the exercise to GitHub for grading <github_push>`.

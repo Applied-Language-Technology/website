@@ -73,4 +73,4 @@ The CSC Notebooks platform allows users to run their own virtual servers, also c
 
    |
 
-6. Proceed to `launch the course environment <launch_server.rst>`_.
+6. Proceed to :ref:`launch the course environment <CSCNotebooksServer>`.

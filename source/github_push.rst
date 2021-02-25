@@ -1,3 +1,5 @@
+.. _github_push:
+
 Return exercises to GitHub
 ==========================
 

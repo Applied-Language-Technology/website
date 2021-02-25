@@ -14,14 +14,6 @@ Because these learning materials teach how to *apply* language technology, the f
 
 |
 
-Look out for the following badge below a header for a related video on YouTube:
-
-.. image:: https://img.shields.io/badge/watch-youtube-red.svg
-   :target: https://www.youtube.com/channel/UCqI8-flen1SrldnJzkhzMHw
-
-|
-
-
 **Table of Contents**
 
 .. toctree::

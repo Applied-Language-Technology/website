@@ -51,4 +51,4 @@ Follow the instructions below to launch a server with the course environment on 
 
    |
 
-5. Upon successful login, the server opens `JupyterLab <jupyter.rst>`_, a web-based interface to Jupyter, the interactive programming environment running on the server.
+5. Upon successful login, the server opens :ref:`JupyterLab <jupyterlab>`, a web-based interface to Jupyter, the interactive programming environment running on the server.

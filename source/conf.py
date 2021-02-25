@@ -32,6 +32,13 @@ copyright = '2020- Tuomo Hiippala, CC BY-NC 4.0'
 # ones.
 extensions = ['myst_nb', 'sphinxembeddedvideos.youtube', 'sphinxcontrib.googleanalytics']
 
+# Use sphinx to parse RST; myst-nb for notebooks
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.ipynb': 'myst-nb',
+    '.myst': 'myst-nb',
+}
+
 # Configure Google Analytics
 googleanalytics_id = "G-QDXYHY09XJ"
 googleanalytics_enabled = True
@@ -42,7 +49,7 @@ templates_path = ['_templates']
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = ['*.md']
+exclude_patterns = ['README.md']
 
 # -- Options for HTML output -------------------------------------------------
 
@@ -56,10 +63,9 @@ html_theme_options = {
 	"use_download_button": True,
 	"use_repository_button": True,
 	"use_edit_page_button": False,
-	"repository_url": "https://github.com/Applied-Language-Technology/website",
-	"repository_branch": "master",
-	"path_to_docs": "source/",
-	"launch_buttons": {"binderhub_url": "https://mybinder.org/v2/gh/Applied-Language-Technology/notebooks/HEAD",
+	"repository_url": "https://github.com/Applied-Language-Technology/notebooks/",
+	"repository_branch": "main",
+	"launch_buttons": {"binderhub_url": "https://mybinder.org",
 					    "notebook_interface": "jupyterlab"}
 	}
 

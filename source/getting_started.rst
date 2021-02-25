@@ -7,10 +7,7 @@ Getting Started
 
    Other users can explore the learning materials and use them interactively on `Binder <https://mybinder.org/>`_.
 
-   Look out for the following badge for links to interactive learning materials on Binder:
-   
-   .. image:: https://mybinder.org/badge_logo.svg
-      :target: https://mybinder.org   
+   To launch an interactive notebook in your browser, click the rocket icon in the top-right hand corner of a content page.
 
 An overview of the learning environments
 ========================================

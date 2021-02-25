@@ -1,7 +1,10 @@
+.. _jupyterlab:
+
 Working in JupyterLab
 =====================
-.. image:: https://img.shields.io/badge/watch-youtube-red.svg
-   :target: https://www.youtube.com/watch?v=-UwAsLtl8nQ
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/-UwAsLtl8nQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 |
 
@@ -15,4 +18,4 @@ The main view of JupyterLab has two major elements: *File Browser* (left) and *L
 
 |
 
-To get started with the course, you must `retrieve learning materials and exercises from GitHub <github_pull.rst>`_.
+To get started with the course, you must :ref:`retrieve learning materials and exercises from GitHub <github_pull>`.

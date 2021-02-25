@@ -20,13 +20,6 @@ After reading through this section, you should be able to:
 
 |
 
-Look out for the following badge below a header for a related video on YouTube:
-
-.. image:: https://img.shields.io/badge/watch-youtube-red.svg
-   :target: https://www.youtube.com/channel/UCqI8-flen1SrldnJzkhzMHw
-
-|
-
 **Table of Contents**
 
 .. toctree::
