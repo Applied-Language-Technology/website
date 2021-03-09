@@ -78,3 +78,4 @@ html_static_path = ['_static']
 # Set nbsphinx options
 nbsphinx_allow_errors = True
 nbsphinx_execute = "always"
+jupyter_execute_notebooks = True
