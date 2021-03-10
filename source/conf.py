@@ -75,5 +75,5 @@ html_theme_options = {
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-# Set nbsphinx options
-jupyter_execute_notebooks = "force"
+# Set myst-nb options
+jupyter_execute_notebooks = "auto"
