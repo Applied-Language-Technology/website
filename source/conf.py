@@ -78,3 +78,4 @@ html_static_path = ['_static']
 # Set myst-nb options
 jupyter_execute_notebooks = "auto"
 execution_allow_errors = True
+nb_render_text_lexer = "myst-ansi"
