@@ -176,7 +176,7 @@ transformers==4.2.2
 typer==0.3.2
 typing-extensions==3.7.4.3
 uc-micro-py==1.0.1
-urllib3==1.26.3
+urllib3==1.26.4
 wasabi==0.8.2
 wcwidth==0.2.5
 webencodings==0.5.1
