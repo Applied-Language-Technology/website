@@ -2,12 +2,6 @@
 Applied Language Technology 
 ###########################
 
-.. warning::
-
-   The materials on the website are still under development and therefore include many placeholders. 
-   
-   All materials will be available by the end of spring 2021.
-
 |
 
 **Tutorials on YouTube**
