@@ -31,6 +31,3 @@ After reading through this section, you should be able to:
    notebooks/part_iii/03_embeddings.ipynb
    notebooks/part_iii/04_embeddings_continued.ipynb
    notebooks/part_iii/05_text_linguistics.ipynb
-   notebooks/part_iii/06_exporting.ipynb
-   ethics.rst
-
