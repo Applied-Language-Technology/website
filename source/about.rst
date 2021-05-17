@@ -25,6 +25,8 @@ You can get credit by signing up for these courses when they are offered in your
 Information for other users
 ===========================
 
-The learning materials are openly available, which means they can be freely used for teaching and learning. 
+The learning materials are available with a `Creative Commons BY-NC 4.0 licence <https://creativecommons.org/licenses/by-nc/4.0/>`_, which means they can be freely used for teaching and learning.
+
+Instructions can contact me for access to course assignments. You can find my contact details on `my personal website <http://www.helsinki.fi/~thiippal>`_.
 
 Note that the University of Helsinki cannot provide credits or certificates for completing these courses.

@@ -22,3 +22,4 @@ Applied Language Technology
    Part I: A Minimal Introduction to Python <python_intro.rst>
    Part II: Working with Text in Python <working_with_text.rst>
    Part III: Natural Language Processing for Linguists <nlp_for_linguists.rst>
+   Citation <citation.rst>
