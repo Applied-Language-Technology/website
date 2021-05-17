@@ -23,3 +23,4 @@ Applied Language Technology
    Part II: Working with Text in Python <working_with_text.rst>
    Part III: Natural Language Processing for Linguists <nlp_for_linguists.rst>
    Citation <citation.rst>
+   Resources <resources.rst>
