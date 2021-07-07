@@ -14,5 +14,13 @@ This page contains links to various resources for further study.
     This upcoming introductory textbook by Dr. Henrikki Tenkanen, Dr. Vuokko Heikinheimo and Dr. David Whipp introduces Python programming for working with geographical data.
 
 `Python for the Digital Humanities <https://pythonhumanities.com/>`_
-    PythonHumanities.com, created by `Dr. WJB Mattingly <http://wjbmattingly.com/>`_, provides a wide range of entry-level tutorial videos for digital humanities, ranging from natural language processing to computer vision.
+    PythonHumanities.com, created by `Dr. W.J.B. Mattingly <http://wjbmattingly.com/>`_, provides a wide range of entry-level tutorial videos for digital humanities, ranging from natural language processing to computer vision.
+
+`Hugging Face Course <https://huggingface.co/course>`_
+    Hugging Face Transformers is a popular library for various natural language processing tasks. This course provides an introduction to the library, but assumes previous knowledge of Python.
+
+`Advanced NLP with spaCy <https://course.spacy.io/en/>`_
+    This course, created by Ines Montani, one of the core developers of spaCy, provides a thorough introduction to the library.
+
+
 
