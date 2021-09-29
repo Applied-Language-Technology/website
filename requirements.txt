@@ -82,7 +82,7 @@ nbformat==5.1.2
 nbsphinx
 nest-asyncio==1.5.1
 nested-lookup==0.2.22
-notebook==6.2.0
+notebook==6.4.1
 numpy==1.19.5
 oauthlib==3.1.0
 opt-einsum==3.3.0
