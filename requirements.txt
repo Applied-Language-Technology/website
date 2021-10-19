@@ -82,7 +82,7 @@ nbformat
 nbsphinx
 nest-asyncio==1.5.1
 nested-lookup==0.2.22
-notebook==6.2.0
+notebook==6.4.1
 numpy==1.19.5
 oauthlib==3.1.0
 opt-einsum==3.3.0
@@ -93,7 +93,7 @@ parso==0.8.1
 pathy==0.4.0
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==8.1.1
+Pillow==8.3.2
 preshed==3.0.5
 prometheus-client==0.9.0
 prompt-toolkit==3.0.16
