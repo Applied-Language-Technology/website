@@ -6,7 +6,7 @@ If these materials help you in your research, you can cite the following `open a
 
     Hiippala, Tuomo (2021) Applied Language Technology: NLP for the Humanities. In David Jurgens, Varada Kolhatkar, Lucy Li, Margot Mieskes and Ted Pedersen (eds) Proceedings of the Fifth Workshop on Teaching NLP. Association for Computational Linguistics, 46–48. DOI: 10.18653/v1/2021.teachingnlp-1.5
 
-Alternative, you can copy the following BibTeX entry:
+Alternatively, you can copy the following entry, if you use BibTeX:
 
 .. code-block:: console
 
@@ -14,7 +14,6 @@ Alternative, you can copy the following BibTeX entry:
         title = "Applied Language Technology: {NLP} for the Humanities",
         author = "Hiippala, Tuomo",
         booktitle = "Proceedings of the Fifth Workshop on Teaching NLP",
-        month = jun,
         year = "2021",
         address = "Online",
         publisher = "Association for Computational Linguistics",
