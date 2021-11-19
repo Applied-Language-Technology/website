@@ -12,16 +12,10 @@ USER $NB_USER
 # Set environments for TMC
 ENV TMC_DIR=/opt/tmc/
 ENV TMC_CONFIG_DIR="${HOME}/tmc-config/tmc-tmc_cli_rust"
-ENV WORK_DIR=/home/$NB_USER/work/
-
-# Set working directory to /opt/app
-WORKDIR /opt/app
-
-# Set working directory to /opt/tmc
-WORKDIR /opt/tmc
+ENV WORK_DIR=/home/$NB_USER
 
 # Install TMC
-RUN apt-get install -y --no-install-recommends curl \
+apt-get install -y --no-install-recommends curl \
     && curl -0 https://raw.githubusercontent.com/rage/tmc-cli-rust/main/scripts/install.sh | bash -s x86_64 linux \
     # Set download location for exercises
     && mkdir -p "${TMC_DIR}" \
@@ -31,3 +25,4 @@ RUN apt-get install -y --no-install-recommends curl \
     && fix-permissions "${TMC_DIR}" \
     && apt-get purge -y --auto-remove curl \
     && apt-get clean
+
