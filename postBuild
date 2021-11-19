@@ -7,7 +7,7 @@ python3 -m spacy download en_core_web_lg
 python3 -m spacy download en_core_web_trf
 
 # Set environments for TMC
-TMC_DIR=/home/tmc/
+TMC_DIR=/home/jovyan/tmc/
 TMC_CONFIG_DIR="${HOME}/tmc-config/tmc-tmc_cli_rust"
 WORK_DIR=/home/jovyan
 
