@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Download spaCy language models
+python3 -m spacy download en_core_web_sm
+python3 -m spacy download en_core_web_md
+python3 -m spacy download en_core_web_lg
+python3 -m spacy download en_core_web_trf
