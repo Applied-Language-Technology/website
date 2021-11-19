@@ -7,7 +7,7 @@ python3 -m spacy download en_core_web_lg
 python3 -m spacy download en_core_web_trf
 
 # Set environments for TMC
-TMC_DIR=/opt/tmc/
+TMC_DIR=/home/tmc/
 TMC_CONFIG_DIR="${HOME}/tmc-config/tmc-tmc_cli_rust"
 WORK_DIR=/home/jovyan
 
@@ -19,6 +19,4 @@ curl -0 https://raw.githubusercontent.com/rage/tmc-cli-rust/main/scripts/install
 mkdir -p "${TMC_DIR}"
 mkdir -p "${TMC_CONFIG_DIR}"
 echo "projects-dir = '${WORK_DIR}'" > "${TMC_CONFIG_DIR}/config.toml"
-apt-get purge -y --auto-remove curl
-apt-get clean
 
