@@ -23,3 +23,5 @@ mkdir -p "${TMC_DIR}"
 mkdir -p "${TMC_CONFIG_DIR}"
 echo "projects-dir = '${WORK_DIR}'" > "${TMC_CONFIG_DIR}/config.toml"
 
+# Clone learning materials
+git clone https://github.com/Applied-Language-Technology/notebooks.git
