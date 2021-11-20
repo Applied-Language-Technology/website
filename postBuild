@@ -13,7 +13,10 @@ WORK_DIR=/home/jovyan
 
 # Install TMC
 apt-get install -y --no-install-recommends curl
-curl -0 https://raw.githubusercontent.com/rage/tmc-cli-rust/main/scripts/install.sh | bash -s x86_64 linux \
+mkdir -p "${TMC_DIR}"
+cd "${TMC_DIR}"
+curl -0 https://raw.githubusercontent.com/rage/tmc-cli-rust/main/scripts/install.sh | bash -s x86_64 linux
+cd ..
 
 # Set download location for exercises
 mkdir -p "${TMC_DIR}"
