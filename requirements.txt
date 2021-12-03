@@ -7,11 +7,6 @@ sphinxcontrib-googleanalytics @ git+https://github.com/elgravel/googleanalytics.
 sphinxembeddedvideos==1.1.0.dev20190210
 conllu
 whatlies
-Sphinx
-sphinx-book-theme
-myst-nb
-myst-parser
-nbsphinx
 en-core-web-lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.2.0/en_core_web_lg-3.2.0-py3-none-any.whl
 en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.2.0/en_core_web_md-3.2.0-py3-none-any.whl
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.2.0/en_core_web_sm-3.2.0-py3-none-any.whl
