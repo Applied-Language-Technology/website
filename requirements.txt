@@ -3,12 +3,9 @@ spacy-stanza
 seaborn
 pandas
 tensorflow
-sphinxcontrib-googleanalytics @ git+https://github.com/elgravel/googleanalytics.git@f5d0f2b3bc5c0d87c10363160fafd68deaa034f9
-sphinxembeddedvideos==1.1.0.dev20190210
 conllu
 whatlies
 en-core-web-lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.2.0/en_core_web_lg-3.2.0-py3-none-any.whl
 en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.2.0/en_core_web_md-3.2.0-py3-none-any.whl
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.2.0/en_core_web_sm-3.2.0-py3-none-any.whl
 en-core-web-trf @ https://github.com/explosion/spacy-models/releases/download/en_core_web_trf-3.2.0/en_core_web_trf-3.2.0-py3-none-any.whl
-
