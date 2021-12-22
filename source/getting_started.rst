@@ -1,8 +1,9 @@
 ***************
-Getting Started
+Getting started
 ***************
 
 .. note::
+
    The following information is mainly intended for students enrolled at the University of Helsinki. 
 
    Other users can explore the learning materials and use them interactively on `Binder <https://mybinder.org/>`_.
@@ -32,7 +33,7 @@ To access and use the learning environments, follow the steps below.
 .. toctree::
 
    Log in to CSC Notebooks <notebook_login.rst>
-   Launch JupyterLab on your personal server <launch_server.rst>
+   Launch a server on CSC Notebooks <launch_server.rst>
    Interact with the server in JupyterLab <jupyter.rst>
-   Retrieve learning materials and exercises from GitHub <github_pull.rst>
-   Return completed exercises to GitHub for grading <github_push.rst>
+   Retrieve learning materials from GitHub <github_pull.rst>
+   Check your exercises using TestMyCode <tmc.rst>

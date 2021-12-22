@@ -9,7 +9,7 @@ Together, these two courses provide an introduction to *applied language technol
 About the courses and their goals
 =================================
 
-The field of language technology (or often interchangeably, natural language processing) studies how computers can process and represent natural language, that is, natural languages spoken, written or signed in the world. Language technology is now used in many real-world applications, which range from traditional tasks such as filtering e-mails for spam to complex communicative situations, such as providing customer service using chatbots.
+The field of language technology (or often interchangeably, natural language processing) studies how computers can process and represent natural language, that is, languages spoken, written or signed in the world. Language technology is now used in many real-world applications, which range from traditional tasks such as filtering e-mails for spam to complex communicative situations, such as providing customer service using chatbots.
 
 As a part of this development, language technology has become increasingly accessible in recent years. Popular programming languages such as Python enable users to apply the latest language technology. Newcomers, however, may find programming languages such as Python intimidating.
 
@@ -27,6 +27,6 @@ Information for other users
 
 The learning materials are available with a `Creative Commons BY-NC 4.0 licence <https://creativecommons.org/licenses/by-nc/4.0/>`_, which means they can be freely used for teaching and learning.
 
-Instructions can contact me for access to course assignments. You can find my contact details on `my personal website <http://www.helsinki.fi/~thiippal>`_.
+Instructors can contact me for access to the course assignments. You can find my contact details on `my personal website <http://www.helsinki.fi/~thiippal>`_.
 
 Note that the University of Helsinki cannot provide credits or certificates for completing these courses.

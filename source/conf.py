@@ -42,7 +42,7 @@ source_suffix = {
 }
 
 # Configure Google Analytics
-googleanalytics_id = "G-QDXYHY09XJ"
+googleanalytics_id = "G-Y6ZQJ0S1M2"
 googleanalytics_enabled = True
 
 # Add any paths that contain templates here, relative to this directory.
@@ -69,7 +69,8 @@ html_theme_options = {
 	"path_to_docs": "",
 	"repository_branch": "binder",
 	"launch_buttons": {"binderhub_url": "https://mybinder.org",
-					    "notebook_interface": "jupyterlab"}
+					    "notebook_interface": "jupyterlab"},
+	"extra_navbar": ""
 	}
 
 # Add any paths that contain custom static files (such as style sheets) here,
