@@ -12,8 +12,6 @@ Because these learning materials teach how to *apply* language technology, the f
 
    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL6cQi6qFlek2G1okRUjmFtiP_0e6MHJFN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-|
-
 **Table of Contents**
 
 .. toctree::

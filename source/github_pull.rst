@@ -2,9 +2,16 @@
 
 Retrieve learning materials from GitHub
 =======================================
+
+.. warning::
+
+   If you are using these learning materials on CSC Notebooks or Binder, the learning materials are cloned automatically into the directory ``notebooks`` in your home directory.
+
+   These instructions are only needed if you need to retrieve the learning materials again for some reason.
+
 .. raw:: html
 
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/uukaUqOLRr4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/uukaUqOLRr4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 The learning materials for this course are hosted on `GitHub <https://www.github.com>`_. 
 
@@ -54,10 +61,10 @@ You should now see a directory named after the repository in the *File Browser* 
 
    To incorporate any changes to the remote repository to your local repository, you do not need to clone the repository again. You can use the command :code:`git pull` to apply the changes to your local repository.
 
-The video below shows some basic tips for using the learning materials in Jupyter Notebooks.
+The video below provides some basic tips for using the learning materials in Jupyter Notebooks.
 
 .. raw:: html
 
    <iframe width="560" height="315" src="https://www.youtube.com/embed/JA8eXq2O2tc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-When you have the learning materials, you can proceed to :ref:`retrieve and complete the exercises <tmc_usage>`.
+When you have retrieved the learning materials, you can proceed to :ref:`retrieve and complete the exercises <tmc_usage>`.

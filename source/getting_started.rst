@@ -2,27 +2,27 @@
 Getting started
 ***************
 
-.. note::
-
-   The following information is mainly intended for students enrolled at the University of Helsinki. 
-
-   Other users can explore the learning materials and use them interactively on `Binder <https://mybinder.org/>`_.
-
-   To launch an interactive notebook in your browser, click the rocket icon in the top-right hand corner of a content page.
-
 An overview of the learning environments
 ========================================
 
-The courses use several learning environments, which are directly accessible through your web browser:
+This course uses several learning environments, which are directly accessible through your web browser.
 
-1. **GitHub** and **GitHub Classroom**. The course materials and exercises are hosted on GitHub, a service for storing code, documentation and other materials. GitHub Classroom is used to manage the exercises.
+`GitHub <https://www.github.com>`_ is a service for storing code, documentation and other materials. The learning materials and this website are hosted on GitHub.
 
-2. **CSC Notebooks** is a service provided by CSC, a Finnish non-profit state enterprise that serves Finnish institutions of higher education. CSC Notebooks host the interactive learning materials, which use **Jupyter**. We use the Python programming language on Jupyter.
+`CSC Notebooks <https://notebooks.csc.fi>`_ is a cloud service provided by CSC – IT Center for Science, a Finnish non-profit state enterprise. CSC Notebooks are used for running JupyterLab, which provides access to the interactive learning materials and the Python programming language. 
 
-The following diagram provides an overview of the environments and services used.
+.. important::
+
+   CSC Notebooks is only available to staff and students of Finnish institutions of higher education.
+
+`Binder <https://mybinder.org>`_ is a service similar to CSC Notebooks, but available to everyone.
+
+`TestMyCode <https://tmc.mooc.fi/>`_ is a programming assignment evaluator, which is currently developed by the Agile Education Research group at the University of Helsinki. TestMyCode is used to handle and automatically grade the exercises for this course.
+
+The following diagram provides an overview of the environments and services used in this course.
 
 .. image:: ../img/environment_overview.svg
-  :width: 600
+  :width: 90%
   :alt: An overview of the environments and services used.
 
 How to use the learning environments in practice?

@@ -32,14 +32,14 @@ html_show_sphinx = False
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['myst_nb', 'sphinxembeddedvideos.youtube', 'sphinxcontrib.googleanalytics']
+extensions = ['sphinxembeddedvideos.youtube', 'sphinxcontrib.googleanalytics', 'myst_nb']
 
 # Use sphinx to parse RST; myst-nb for notebooks
-source_suffix = {
-    '.rst': 'restructuredtext',
-    '.ipynb': 'myst-nb',
-    '.myst': 'myst-nb',
-}
+# source_suffix = {
+#    '.rst': 'restructuredtext',
+#    '.ipynb': 'nbsphinx',
+#    '.myst': 'nbsphinx',
+# }
 
 # Configure Google Analytics
 googleanalytics_id = "G-Y6ZQJ0S1M2"
