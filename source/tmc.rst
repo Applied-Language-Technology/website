@@ -21,22 +21,40 @@ To use TMC, you need to register as a user on the `mooc.fi <https://mooc.fi>`_ w
 Next, open a new Terminal from the :ref:`JupyterLab Launcher <jupyterlab>` to access the command line interface.
 
 .. image:: ../img/jl_launch_terminal.gif
-  :width: 400
+  :width: 50%
   :alt: A view of JupyterLab.
+
+.. raw:: html
+
+   <br>
+
+.. image:: _static/empty.png
 
 To log in to TMC, type the command :code:`tmc login` on the command line and press ⏎ to execute the command.
 
 .. image:: ../img/tmc_login.gif
-  :width: 600
+  :width: 75%
   :alt: A view of the TMC command line interface.
+
+.. raw:: html
+
+   <br>
+
+.. image:: _static/empty.png
 
 TMC will prompt you for your e-mail address or username.
 
 Enter the e-mail or username that you used to register on the `mooc.fi <https://mooc.fi>`_ website and press ⏎.
 
 .. image:: ../img/tmc_username.gif
-  :width: 600
+  :width: 75%
   :alt: A view of the TMC command line interface.
+
+.. raw:: html
+
+   <br>
+
+.. image:: _static/empty.png
 
 Next, type in your password for the `mooc.fi <https://mooc.fi>`_ platform and press ⏎.
 
@@ -45,14 +63,27 @@ Next, type in your password for the `mooc.fi <https://mooc.fi>`_ platform and pr
    The cursor will not move when you type into the password prompt, but your password is still being entered.
 
 .. image:: ../img/tmc_passwd.gif
-  :width: 600
+  :width: 75%
   :alt: A view of the TMC login screen on the command line interface.
+
+.. raw:: html
+
+   <br>
+
+.. image:: _static/empty.png
 
 If the login is successful, TMC will prompt you to select an organization. 
 
 .. image:: ../img/tmc_done.gif
-  :width: 600
+  :width: 75%
   :alt: A view of the TMC command line interface.
+
+.. raw:: html
+
+   <br>
+
+.. image:: _static/empty.png
+
 
 Use the arrow keys ↑↓ to navigate the list and choose :code:`MOOC`. Press ⏎ to confirm your selection.
 
@@ -76,18 +107,30 @@ TMC will prompt you to select a course.
 Use the arrow keys ↑↓ to navigate to :code:`Applied Language Technology` and press ⏎ to confirm your selection.
 
 .. image:: ../img/tmc_dl.gif
-  :width: 600
+  :width: 75%
   :alt: A view of the TMC command line interface.
 
-This will download all available exercises into the directory :code:`mooc-applied-lt-2022`.
+.. raw:: html
+
+   <br>
+
+.. image:: _static/empty.png
+
+This will download all available exercises into the directory :code:`mooc-applied-lt-2022` in your home directory.
 
 If instructed to do so, you can also update the exercises by typing :code:`tmc update` and  pressing ⏎.
 
 .. image:: ../img/tmc_update.gif
-  :width: 600
+  :width: 75%
   :alt: A view of the TMC command line interface.
 
-This will update all exercises.
+.. raw:: html
+
+   <br>
+
+.. image:: _static/empty.png
+
+This will update all exercises available to you.
 
 .. _tmc_test:
   
@@ -107,8 +150,14 @@ Open a new Terminal from the :ref:`JupyterLab Launcher <jupyterlab>` to access t
 To test your code, type the command :code:`tmc test` and press ⏎.
 
 .. image:: ../img/tmc_test.gif
-  :width: 600
+  :width: 75%
   :alt: A view of the TMC command line interface.
+
+.. raw:: html
+
+   <br>
+
+.. image:: _static/empty.png
 
 TMC will prompt you to select a course.
 
@@ -144,8 +193,14 @@ When you are finished with an exercise, you must submit your code to the TMC ser
 To submit your code to the TMC server, open a Terminal and type the command :code:`tmc submit` and press ⏎.
 
 .. image:: ../img/tmc_submit.gif
-   :width: 600
+   :width: 75%
    :alt: A view of the TMC command line interface.
+
+.. raw:: html
+
+   <br>
+
+.. image:: _static/empty.png
 
 Use the arrow keys ↑↓ to navigate to :code:`mooc-applied-lt-2022` and press ⏎ to confirm your selection.
 

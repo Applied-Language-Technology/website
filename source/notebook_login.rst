@@ -6,21 +6,33 @@ Log in to CSC Notebooks
 
 CSC Notebooks is a service provided by `CSC – IT Centre for Science <https://www.csc.fi>`_, a company jointly owned by the Finnish state and universities.
 
-The CSC Notebooks platform allows users to run their own virtual servers, also called *instances*, on CSC computers.
+The CSC Notebooks platform allows users to run their own virtual servers on CSC computers.
 
 To access the platform, open a web browser on your computer and navigate to `CSC Notebooks <https://notebooks-beta.rahtiapp.fi//>`_.
 
-Next, click the green *Login* button. You will be redirected to the login page.
+Next, click the green **Login** button. You will be redirected to the login page.
 
 .. image:: ../img/csc_nb_login.png
    :width: 60%
    :alt: Click the green "Login" button.
-   
+
+.. raw:: html
+
+   <br>
+
+.. image:: _static/empty.png
+
 Choose **Haka** as your login method.
 
 .. image:: ../img/csc_nb_login_method.gif
    :width: 50%
    :alt: Click the "Haka Login" button.
+
+.. raw:: html
+
+   <br>
+
+.. image:: _static/empty.png
 
 Choose your university from the drop-down menu and click **Select**.
 
@@ -28,11 +40,23 @@ Choose your university from the drop-down menu and click **Select**.
    :width: 40%
    :alt: Choose your university from the drop-down menu and click select.
 
+.. raw:: html
+
+   <br>
+
+.. image:: _static/empty.png
+
 Enter your *university username and password* and click **Login**.
 
 .. image:: ../img/csc_nb_haka_login.gif
    :width: 30%
    :alt: Enter your credentials and click Login.
+
+.. raw:: html
+
+   <br>
+
+.. image:: _static/empty.png
 
 If prompted, click **Accept** to forward your login to CSC Notebooks. 
 

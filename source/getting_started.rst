@@ -15,7 +15,7 @@ This course uses several learning environments, which are directly accessible th
 
    CSC Notebooks is only available to staff and students of Finnish institutions of higher education.
 
-`Binder <https://mybinder.org>`_ is a service similar to CSC Notebooks, but available to everyone.
+`Binder <https://mybinder.org>`_ is a service that is similar to CSC Notebooks, but available to everyone. Binder also runs JupyterLab.
 
 `TestMyCode <https://tmc.mooc.fi/>`_ is a programming assignment evaluator, which is currently developed by the Agile Education Research group at the University of Helsinki. TestMyCode is used to handle and automatically grade the exercises for this course.
 
