@@ -82,3 +82,6 @@ html_static_path = ['_static']
 jupyter_execute_notebooks = "auto"
 execution_allow_errors = True
 nb_render_text_lexer = "myst-ansi"
+
+# Allow time
+nbsphinx_timeout = 360

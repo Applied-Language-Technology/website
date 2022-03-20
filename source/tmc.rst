@@ -16,7 +16,7 @@ To get started with TMC, follow the instructions below.
 Logging in to TMC
 =================
 
-To use TMC, you need to register as a user on the `mooc.fi <https://mooc.fi>`_ website.
+To use TMC, you need to first register as a user on the `mooc.fi <https://mooc.fi>`_ website.
 
 Next, open a new Terminal from the :ref:`JupyterLab Launcher <jupyterlab>` to access the command line interface.
 
@@ -44,7 +44,7 @@ To log in to TMC, type the command :code:`tmc login` on the command line and pre
 
 TMC will prompt you for your e-mail address or username.
 
-Enter the e-mail or username that you used to register on the `mooc.fi <https://mooc.fi>`_ website and press ⏎.
+Enter the e-mail or username that you registered on the `mooc.fi <https://mooc.fi>`_ website and press ⏎.
 
 .. image:: ../img/tmc_username.gif
   :width: 75%
@@ -98,9 +98,9 @@ This downloads the exercises into a directory named :code:`mooc-applied-lt-2022`
 Downloading and updating exercises using TMC
 ============================================
 
-When new exercises become available as you progress through the course, you must download them to the server so that you can complete them in JupyterLab.
+TMC will automatically download any missing exercises on your server when you log into the system.
 
-To download exercises, open a Terminal and type the command :code:`tmc download` and press ⏎.
+To download exercises manually, open a Terminal and type the command :code:`tmc download` and press ⏎.
 
 TMC will prompt you to select a course.
 
@@ -212,9 +212,8 @@ The server will run the tests and return information on any points awarded for t
 
 .. important::
 
-   All points are awarded permanently. Even if you submit a wrong solution afterwards, points will not be deducted.
+   All points are awarded permanently. Even if you submit a solution that fails afterwards, points will not be deducted.
 
 You can monitor your overall progress by visiting `mooc.fi <https://mooc.fi>`_ and viewing your profile information.
 
 To view your profile, click your e-mail address / username in the top right-hand corner.
-
