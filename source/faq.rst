@@ -8,4 +8,8 @@ Frequently Asked Questions
 
 **Question:** When I submit my exercises to the :ref:`TMC <tmc_usage>` server, the submission takes a long time and finishes with an error. What should I do?
 
-**Answer:** This means that your code probably has an infinite :code:`for` loop or another problem, which causes the TMC server to terminate the submission. All exercises should run within a reasonable amount of time.
+**Answer:** This probably means that your code has an infinite :code:`for` loop or another problem, which causes the TMC server to terminate the submission. All exercises should run within a reasonable amount of time.
+
+**Question:** When I submit my exercises to the :ref:`TMC <tmc_usage>` server, the server raises the error :code:`413 Payload Too Large`.
+
+**Answer:** The size of submissions to the TMC server is limited to 30 megabytes. Make sure your Jupyter Notebook does not contain excessive output e.g. for debugging purposes, and that you have not placed big files (e.g. language models) into the exercise directory.
