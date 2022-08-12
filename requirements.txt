@@ -76,7 +76,7 @@ murmurhash==1.0.5
 myst-nb
 myst-parser
 nbclient==0.5.3
-nbconvert==5.6.1
+nbconvert==6.3.0
 nbdime==2.1.0
 nbformat
 nbsphinx
